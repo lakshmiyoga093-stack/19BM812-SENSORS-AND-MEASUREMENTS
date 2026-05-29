@@ -37,7 +37,8 @@ there are no sliding contacts, there is less Friction and less noise.
 
 
 # TABULATION
-<img width="1090" height="690" alt="image" src="https://github.com/user-attachments/assets/b231608e-9b84-4a67-9e79-1011e0497b71" />
+<img width="1098" height="1599" alt="WhatsApp Image 2026-05-28 at 7 42 00 PM" src="https://github.com/user-attachments/assets/b51b9fdf-0044-463b-9c14-4d652baf9edd" />
+
 
 
 
@@ -46,6 +47,8 @@ there are no sliding contacts, there is less Friction and less noise.
 
 
 # GRAPH:
+<img width="1158" height="1600" alt="WhatsApp Image 2026-05-28 at 7 42 00 PM (1)" src="https://github.com/user-attachments/assets/c38a0ca9-122e-494d-97a6-4634de8e0dbe" />
+
 
 
 # RESULT
